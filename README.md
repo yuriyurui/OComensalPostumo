@@ -2,7 +2,7 @@
 ## Integrantes
 <div align="center">
 
-| <a href="https://github.com/martinsferreirathales-dotcom"> <img src="https://avatars.githubusercontent.com/u/226721012?v=4" alt="Imagem de perfil de Thales Martins" width=115> </a> <br> <sub> Thales Martins Ferreira </sub>  | <a href="https://github.com/yuriyurui"> <img src="https://avatars.githubusercontent.com/u/128494725?v=4" alt="Imagem de perfil de Yuri Telis" width=115> </a> <br> <sub> Yuri Telis Garcia </sub>
+| <a href="https://github.com/martinsferreirathales-dotcom"> <img src="https://avatars.githubusercontent.com/u/226721012?v=4" alt="Imagem de perfil de Thales Martins" width=225> </a> <br> <p> Thales Martins Ferreira </p>  | <a href="https://github.com/yuriyurui"> <img src="https://avatars.githubusercontent.com/u/128494725?v=4" alt="Imagem de perfil de Yuri Telis" width=225> </a> <br> <p> Yuri Telis Garcia </p>
 | :---: | :---:
 
 </div>
